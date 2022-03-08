@@ -1,0 +1,9 @@
+# import everything from tkinter module
+from tkinter import *
+# import messagebox from tkinter module
+import tkinter.messagebox
+# create a tkinter root window
+root = tkinter.Tk()
+# root window title and dimension
+root.title("Hello World")
+root.geometry('500x300')
